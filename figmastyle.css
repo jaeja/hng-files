@@ -1,0 +1,15 @@
+h1{position:absolute;
+width: 121px;
+height: 18px;
+font-family: ROBOTO;
+font-style: normal;
+font-weight:normal;
+line-height: normal;
+font-size:36px;
+color: #2F80ED;
+}
+
+body{position: absolute;
+width:361px;
+height:336px;
+background:#333333;}
